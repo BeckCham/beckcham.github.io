@@ -1,6 +1,6 @@
 # Beck Chamberlain
 
-Computer Science student and software developer.
+Computer Science student in their final year at Aberystwyth university.
 
 ## Projects
 
@@ -10,5 +10,6 @@ Computer Science student and software developer.
 ## Contact
 
 Email: bchamberlain27@hotmail.com  
-Linkdin: 
+Linkdin: [Beck Chamberlain](www.linkedin.com/in/
+beck-chamberlain-3149831b1)
 GitHub: [BeckCham](https://github.com/BeckCham)
