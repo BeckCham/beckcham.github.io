@@ -10,5 +10,5 @@ Computer Science student in their final year at Aberystwyth university.
 ## Contact
 
 Email: bchamberlain27@hotmail.com  
-Linkdin: [Beck Chamberlain](www.linkedin.com/in/beck-chamberlain-3149831b1)
+Linkdin: [Beck Chamberlain](www.linkedin.com/in/beck-chamberlain-3149831b1)  
 GitHub: [BeckCham](https://github.com/BeckCham)
