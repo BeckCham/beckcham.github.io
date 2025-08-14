@@ -1,0 +1,19 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+
+<!-- Leaf favicon -->
+{% if site.logo %}
+<link rel="icon" type="image/png" href="{{ site.logo }}">
+{% else %}
+<link rel="icon" type="image/png" href="/assets/img/leaf.png">
+{% endif %}
+
+<!-- Theme stylesheet -->
+<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+
+<!-- RSS feed (optional) -->
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | relative_url }}">
