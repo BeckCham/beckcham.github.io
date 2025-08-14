@@ -228,7 +228,10 @@ article, .comments, .box {
   height: 70px;
   padding: 14px;
   background: #272726;
-  border-radius: 50%; }
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
   @media screen and (max-width: 600px) {
     .site-icon {
       width: 50px;
