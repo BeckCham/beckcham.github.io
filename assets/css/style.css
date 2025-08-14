@@ -465,18 +465,3 @@ article, .comments, .box {
   color: #2aa198; }
 .highlight .il {
   color: #2aa198; }
-
-/* Center the site icon/logo */
-.site-header .site-icon {
-  text-align: center;
-  /* centers content horizontally */
-  margin: 0 auto;
-  /* ensures container stays centered */ }
-
-.site-header .site-icon img {
-  display: block;
-  margin: 0 auto;
-  /* centers the image inside the container */
-  max-width: 150px;
-  /* adjust size as needed */
-  height: auto; }
