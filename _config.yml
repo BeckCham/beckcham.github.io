@@ -6,9 +6,8 @@ theme: jekyll-theme-leaf
 permalink: :slug
 
 social:
-  twitter: _SupunKavinda
   github: BeckCham
-
+  linkedin: https://www.linkedin.com/in/beck-chamberlain-3149831b1/
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
