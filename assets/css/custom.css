@@ -1,3 +1,10 @@
 header .circle {
-  background: #000 url('/assets/img/BClogo2.png') center/80% no-repeat !important;
+  width: 70px;             // circle width (keep original)
+  height: 70px;            // circle height (keep original)
+  background-color: #000;  // circle color
+  border-radius: 50%;      // keep it circular
+  background-image: url('/assets/img/BClogo2.png');
+  background-repeat: no-repeat;
+  background-position: center;     // centers the image
+  background-size: 90%;            // makes the image bigger inside the circle
 }
