@@ -1,8 +1,3 @@
 header .circle {
   background: #000 url('/assets/img/BClogo2.png') center/60% no-repeat !important;
-  width: 120px;   /* adjust width */
-  height: 120px;  /* adjust height */
-  margin: 0 auto; /* centers the circle horizontally */
-  display: block; /* ensures margin centering works */
-  border-radius: 50%; /* keeps it circular */
 }
