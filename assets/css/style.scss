@@ -2,3 +2,14 @@
 ---
 
 @import "leaf";
+/* Center the site icon/logo */
+.site-icon {
+  display: flex;
+  justify-content: center; /* horizontally center */
+  margin: 1.5rem 0;        /* optional spacing */
+}
+
+.site-icon img {
+  max-width: 150px;        /* adjust size as needed */
+  height: auto;
+}
