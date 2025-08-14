@@ -219,10 +219,6 @@ article, .comments, .box {
     .site-title {
       padding-right: 45px; } }
 
-.site-icon img {
-  width: 85%;
-  height: auto; }
-
 .site-icon {
   position: absolute;
   left: 50%;
@@ -241,6 +237,10 @@ article, .comments, .box {
       width: 50px;
       height: 50px;
       margin-top: -25px; } }
+
+.site-icon img {
+  width: 90%;
+  height: auto; }
 
 .site-nav {
   position: absolute;
