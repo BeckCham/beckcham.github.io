@@ -1,7 +1,7 @@
 header .circle {
   width: 70px;             // circle width (keep original)
   height: 70px;            // circle height (keep original)
-  background-color: #000;  // circle color
+  background-color: #666363;  // circle color
   border-radius: 50%;      // keep it circular
   background-image: url('/assets/img/BClogo2.png');
   background-repeat: no-repeat;
