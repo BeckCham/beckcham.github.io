@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-08-14T14:41:19+00:00</updated><id>/feed.xml</id><title type="html">Beck Chamberlain Portfolio</title><entry><title type="html">Projects</title><link href="/projects" rel="alternate" type="text/html" title="Projects" /><published>2025-08-14T00:00:00+00:00</published><updated>2025-08-14T00:00:00+00:00</updated><id>/projects</id><content type="html" xml:base="/projects"><![CDATA[<h2 id="morse-code-translator">Morse Code Translator</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-08-14T14:45:28+00:00</updated><id>/feed.xml</id><title type="html">Beck Chamberlain Portfolio</title><entry><title type="html">Projects</title><link href="/projects" rel="alternate" type="text/html" title="Projects" /><published>2025-08-14T00:00:00+00:00</published><updated>2025-08-14T00:00:00+00:00</updated><id>/projects</id><content type="html" xml:base="/projects"><![CDATA[<h1 id="morse-code-translator">Morse Code Translator</h1>
 <p><a href="https://github.com/BeckCham/morselike_code_translator">View on GitHub</a></p>
 
-<h2 id="card-game-simulator">Card Game Simulator</h2>
+<h1 id="card-game-simulator">Card Game Simulator</h1>
 <p><a href="https://github.com/BeckCham/card_game_simulator">View on GitHub</a></p>
 
-<h2 id="fish-feeder">Fish Feeder</h2>
+<h1 id="fish-feeder">Fish Feeder</h1>
 <p><a href="https://github.com/BeckCham/fish_feeder">View on GitHub</a></p>
 
-<h2 id="rhyme-finder">Rhyme Finder</h2>
-<p><a href="https://github.com/BeckCham/rhyme_checker">View on GitHub</a></p>]]></content><author><name>Beck Chamberlain</name></author><summary type="html"><![CDATA[Morse Code Translator View on GitHub]]></summary></entry><entry><title type="html">Life AFK</title><link href="/life-afk" rel="alternate" type="text/html" title="Life AFK" /><published>2025-08-09T00:00:00+00:00</published><updated>2025-08-09T00:00:00+00:00</updated><id>/life-afk</id><content type="html" xml:base="/life-afk"><![CDATA[<h2 id="ada-lovelace-colloquium">Ada Lovelace Colloquium</h2>
+<h1 id="rhyme-finder">Rhyme Finder</h1>
+<p><a href="https://github.com/BeckCham/rhyme_checker">View on GitHub</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Morse Code Translator View on GitHub]]></summary></entry><entry><title type="html">Life AFK</title><link href="/life-afk" rel="alternate" type="text/html" title="Life AFK" /><published>2025-08-09T00:00:00+00:00</published><updated>2025-08-09T00:00:00+00:00</updated><id>/life-afk</id><content type="html" xml:base="/life-afk"><![CDATA[<h2 id="ada-lovelace-colloquium">Ada Lovelace Colloquium</h2>
 
 <h2 id="coding-workshop">Coding workshop</h2>]]></content><author><name>Beck Chamberlain</name></author><summary type="html"><![CDATA[Ada Lovelace Colloquium]]></summary></entry></feed>
