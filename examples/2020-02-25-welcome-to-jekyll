@@ -26,9 +26,6 @@
       </label>
 
       <div class="trigger">
-            <a class="page-link" href="/examples/2020-02-24-markdown">
-              Styling with Markdown
-            </a>
             <a class="page-link" href="/about">
               About
             </a>
