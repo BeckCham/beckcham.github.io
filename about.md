@@ -3,8 +3,6 @@ title: About
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hey! This is my website where you can see what i've been up to inside and outside of uni over the last couple of years.
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+This includes projects i've worked on, workshops i've run, events i've attended, and what i get up to in my freetime.
