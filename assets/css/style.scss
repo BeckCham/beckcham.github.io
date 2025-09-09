@@ -4,6 +4,9 @@
 @import "leaf";
 /* Custom styles for post images */
 .post-content img {
-  max-width: 600px;    /* images won’t get wider than this */
-  width: 100%;         /* scale down on smaller screens */
+  max-width: 600px; /* Adjust the value as needed */
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
 }
