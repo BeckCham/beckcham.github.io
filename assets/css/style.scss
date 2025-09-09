@@ -4,9 +4,8 @@
 @import "leaf";
 /* Custom styles for post images */
 .post-content img {
-  width: auto;
-  max-width: 600px;  /* image won’t get wider than this */
-  height: auto;
-  display: block;
-  margin: 1em auto;  /* this now centers it */
+  max-width: 600px !important;
+  width: auto !important;
+  display: block !important;
+  margin: 1em auto !important;
 }
