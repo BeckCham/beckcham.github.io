@@ -2,3 +2,8 @@
 ---
 
 @import "leaf";
+/* Custom styles for post images */
+.post-content img {
+  max-width: 600px;    /* images won’t get wider than this */
+  width: 100%;         /* scale down on smaller screens */
+}
