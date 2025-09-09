@@ -1,4 +1,3 @@
-@charset "UTF-8";
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -477,6 +476,8 @@ article, .comments, .box {
 /* Custom styles for post images */
 .post-content img {
   max-width: 600px;
-  /* images won’t get wider than this */
+  /* Adjust the value as needed */
   width: 100%;
-  /* scale down on smaller screens */ }
+  height: auto;
+  display: block;
+  margin: 1em auto; }
