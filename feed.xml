@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-09-09T14:40:46+00:00</updated><id>/feed.xml</id><title type="html">Beck Chamberlain Portfolio</title><entry><title type="html">My Projects</title><link href="/projects" rel="alternate" type="text/html" title="My Projects" /><published>2025-08-14T00:00:00+00:00</published><updated>2025-08-14T00:00:00+00:00</updated><id>/projects</id><content type="html" xml:base="/projects"><![CDATA[<h3 id="morse-code-translator">Morse Code Translator</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2025-09-09T14:49:52+00:00</updated><id>/feed.xml</id><title type="html">Beck Chamberlain Portfolio</title><entry><title type="html">My Projects</title><link href="/projects" rel="alternate" type="text/html" title="My Projects" /><published>2025-08-14T00:00:00+00:00</published><updated>2025-08-14T00:00:00+00:00</updated><id>/projects</id><content type="html" xml:base="/projects"><![CDATA[<h3 id="morse-code-translator">Morse Code Translator</h3>
 <p><a href="https://github.com/BeckCham/morselike_code_translator">View on GitHub</a></p>
 
 <h3 id="card-game-simulator">Card Game Simulator</h3>
@@ -8,6 +8,13 @@
 <p><a href="https://github.com/BeckCham/fish_feeder">View on GitHub</a></p>
 
 <h3 id="rhyme-finder">Rhyme Finder</h3>
-<p><a href="https://github.com/BeckCham/rhyme_checker">View on GitHub</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Morse Code Translator View on GitHub]]></summary></entry><entry><title type="html">Life AFK</title><link href="/life-afk" rel="alternate" type="text/html" title="Life AFK" /><published>2025-08-09T00:00:00+00:00</published><updated>2025-08-09T00:00:00+00:00</updated><id>/life-afk</id><content type="html" xml:base="/life-afk"><![CDATA[<h3 id="ada-lovelace-colloquium">Ada Lovelace Colloquium</h3>
+<p><a href="https://github.com/BeckCham/rhyme_checker">View on GitHub</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Morse Code Translator View on GitHub]]></summary></entry><entry><title type="html">Life AFK</title><link href="/life-afk" rel="alternate" type="text/html" title="Life AFK" /><published>2025-08-09T00:00:00+00:00</published><updated>2025-08-09T00:00:00+00:00</updated><id>/life-afk</id><content type="html" xml:base="/life-afk"><![CDATA[<h3 id="sea-rowing-competition">Sea Rowing Competition</h3>
+<h4 id="may-2025">May 2025</h4>
+<p><img src="/assets/images/SeaRowing.jpeg" alt="Sea Rowing Photo" /></p>
 
-<h3 id="coding-workshop">Coding workshop</h3>]]></content><author><name></name></author><summary type="html"><![CDATA[Ada Lovelace Colloquium]]></summary></entry></feed>
+<h3 id="ada-lovelace-colloquium">Ada Lovelace Colloquium</h3>
+<h4 id="april-2025">April 2025</h4>
+<p><img src="/assets/images/Lovelace.jpeg" alt="Ada Lovelace Photo" /></p>
+
+<h3 id="endeavour-workshops">Endeavour Workshops</h3>
+<h4 id="2019--2021">2019 &amp; 2021</h4>]]></content><author><name></name></author><summary type="html"><![CDATA[Sea Rowing Competition May 2025]]></summary></entry></feed>
